@@ -1,9 +1,6 @@
 <!-- Professional GitHub README for Shubham Ryan -->
 
-<!-- Header GIF Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shubham Ryan</h1>
 <h3 align="center">Full-Stack Web Developer | Python (Django) | JavaScript | DevOps Enthusiast</h3>
@@ -20,8 +17,8 @@
 
 ---
 
-- 🌱 Currently exploring **ReactJS** for Frontend
-- 💬 Ask me about **Python, Django, JavaScript, DevOps, AWS, MERN Stack**
+- 🌱 Currently exploring **Django Rest Framework** 
+- 💬 Ask me about **Python, Django, JavaScript, DevOps, AWS**
 - 📫 Reach me at **mr.ryan2415@gmail.com**
 
 ---
