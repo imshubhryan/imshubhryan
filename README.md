@@ -1,70 +1,112 @@
-<!-- Professional GitHub README for Shubham Ryan -->
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="150"/>
 
+# Hi 👋, I'm Shubham Ryan
 
-<h1 align="center">Hi 👋, I'm Shubham Ryan</h1>
-<h3 align="center">Full-Stack Web Developer | Python (Django) | JavaScript | DevOps Enthusiast</h3>
+### Full-Stack Developer · MERN Stack · 3D Web · DevOps
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="400" alt="Coding">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamryan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.ryan2415@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/imshubhryan)
+[![Profile Views](https://komarev.com/ghpvc/?username=imshubhryan&style=flat-square&color=0e75b6&label=visitors)](https://github.com/imshubhryan)
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imshubhryan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
-</p>
+</div>
 
 ---
 
-- 🌱 Currently exploring **Django Rest Framework** 
-- 💬 Ask me about **Python, Django, JavaScript, DevOps, AWS**
+## 🙋‍♂️ About Me
+
+- 🔥 Building full-stack apps with **MERN Stack** — MongoDB, Express, React, Node.js
+- 🎨 Crafting immersive 3D web experiences with **Three.js & GSAP**
+- ⚡ Shipping fast, production-ready UIs with **Next.js + Tailwind CSS**
+- 🐳 Deploying & scaling with **Docker, Kubernetes & AWS**
+- 🐍 Backend roots in **Python & Django**
+- 💬 Ask me about **React, Node.js, Three.js, GSAP, DevOps, Python**
 - 📫 Reach me at **mr.ryan2415@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <!-- Add actual links to your social profiles -->
-  <a href="https://linkedin.com/in/shubhamryan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:mr.ryan2415@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Creative & Animation**
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imshubhryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhryan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhryan&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshubhryan&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhryan" alt="GitHub Streak">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshubhryan&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imshubhryan&theme=tokyo-night&hide_border=true&area=true)](https://github.com/imshubhryan)
+
+</div>
 
 ---
 
-<p align="center">Thanks for visiting my profile 🚀</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=imshubhryan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/imshubhryan)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting — let's build something great together* 🚀
+
+</div>
