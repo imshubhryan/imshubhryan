@@ -12,9 +12,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: imshubhryan
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -22,26 +20,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
-**Step 3 — Action manually run karo**
-
-1. Repo mein **Actions** tab pe jao
-2. Left side mein **"Generate Snake"** dikhega
-3. **"Run workflow"** button click karo
-4. 1-2 minute wait karo ✅
-
----
-
-**Step 4 — Verify karo**
-
-Repo mein `output` naam ki ek nayi branch ban jayegi jisme yeh file hogi:
-```
-github-contribution-grid-snake-dark.svg
-```
-
-Bas — README mein jo line hai woh automatically kaam karne lagegi:
-```
-![Snake](https://raw.githubusercontent.com/imshubhryan/imshubhryan/output/github-contribution-grid-snake-dark.svg)
