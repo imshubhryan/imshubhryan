@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Shubham Ryan
 
-### Full-Stack Developer · MERN Stack · 3D Web · DevOps
+### Full-Stack Developer | MERN Stack | AI Integration
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhamryan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.ryan2415@gmail.com)
@@ -15,64 +15,77 @@
 
 ---
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
-- 🔥 Building full-stack apps with **MERN Stack** — MongoDB, Express, React, Node.js
-- 🎨 Crafting immersive 3D web experiences with **Three.js & GSAP**
-- ⚡ Shipping fast, production-ready UIs with **Next.js + Tailwind CSS**
-- 🐳 Deploying & scaling with **Docker, Kubernetes & AWS**
-- 🐍 Backend roots in **Python & Django**
-- 💬 Ask me about **React, Node.js, Three.js, GSAP, DevOps, Python**
+- 🚀 Full-Stack Developer specializing in the MERN Stack
+- ⚡ Building scalable authentication systems with JWT, Cookies & Google OAuth
+- 🎨 Developing modern, responsive UIs using React & Tailwind CSS
+- 🤖 Exploring AI applications with LangChain, RAG & LLM integrations
+- 📦 Building production-ready REST APIs using Express.js & MongoDB
+- 🔄 Experienced with Redux Toolkit, Context API & State Management
+- 🖼️ Image optimization and CDN integration using ImageKit
+- ⚡ Real-time applications using Socket.IO
 - 📫 Reach me at **mr.ryan2415@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-**Creative & Animation**
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
 
-**Databases**
+### Database & Cache
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Cloud**
+### AI & Integrations
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-1C1C1C?style=flat-square)
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Currently Building
+
+- 🛒 Full Stack Fashion E-Commerce Platform
+- 🔐 JWT Authentication + Google OAuth
+- 🤖 AI-powered RAG Chat System
+- 📦 REST APIs with Express & MongoDB
+- ⚡ Real-time features using Socket.IO
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=imshubhryan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
 &nbsp;&nbsp;
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhryan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
@@ -85,7 +98,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -95,7 +108,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -107,6 +120,7 @@
 
 <div align="center">
 
-*Thanks for visiting — let's build something great together* 🚀
+### 💡 "Learning by Building."
 
+Thanks for visiting! ⭐
 </div>
